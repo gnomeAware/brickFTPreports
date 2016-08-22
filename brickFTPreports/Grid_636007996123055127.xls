@@ -1,0 +1,25 @@
+<table rules="all" bordercolor="Black">
+	<tr>
+		<td>CustomerName</td><td>Action</td><td>File</td><td>Date</td><td>Time</td>
+	</tr><tr>
+		<td>support</td><td>read</td><td>CustomerLogs</td><td>11/4/2014 12:00:00 AM</td><td>23:08:00</td>
+	</tr><tr>
+		<td>art.larkin</td><td>read</td><td>CustomerLogs</td><td>11/19/2014 12:00:00 AM</td><td>12:25:00</td>
+	</tr><tr>
+		<td>art.larkin</td><td>read</td><td>CustomerLogs</td><td>11/19/2014 12:00:00 AM</td><td>12:25:00</td>
+	</tr><tr>
+		<td>support</td><td>read</td><td>CustomerLogs</td><td>11/19/2014 12:00:00 AM</td><td>12:12:00</td>
+	</tr><tr>
+		<td>support</td><td>read</td><td>LONW00065204-viclient-support-2014-11-19@15-15-45.zip</td><td>11/20/2014 12:00:00 AM</td><td>11:37:00</td>
+	</tr><tr>
+		<td>support</td><td>read</td><td>lonse0107696.uk.net.intra-vmsupport-2014-11-19@15-15-43.tgz</td><td>11/20/2014 12:00:00 AM</td><td>11:37:00</td>
+	</tr><tr>
+		<td>support</td><td>read</td><td>lonse0107695.uk.net.intra-vmsupport-2014-11-19@15-15-43.tgz</td><td>11/20/2014 12:00:00 AM</td><td>11:37:00</td>
+	</tr><tr>
+		<td>support</td><td>read</td><td>lonse0107694.uk.net.intra-vmsupport-2014-11-19@15-15-43.tgz</td><td>11/20/2014 12:00:00 AM</td><td>11:37:00</td>
+	</tr><tr>
+		<td>support</td><td>read</td><td>lonse0107692.uk.net.intra-vmsupport-2014-11-19@15-15-43.tgz</td><td>11/20/2014 12:00:00 AM</td><td>11:37:00</td>
+	</tr><tr>
+		<td>support</td><td>read</td><td>lonse0107696.uk.net.intra-vmsupport-2014-11-19@15-15-43.tgz</td><td>11/20/2014 12:00:00 AM</td><td>07:37:00</td>
+	</tr>
+</table>
